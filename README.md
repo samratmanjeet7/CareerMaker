@@ -1,57 +1,40 @@
-![apnicareer-website-cover](https://github.com/akhil-s-kumar/apnicareer-webapp/blob/master/Screenshots/main-screen.jpg?raw=true)
+## Try on Initializ
 
-# Apni Career Webapp
+## On Dev 
+[![Kubeday India](https://res.cloudinary.com/daosik5yi/image/upload/f_auto,q_auto/pntsnjpa1sxbc2d02q9n)](https://console.dev.initializ.ai/create-app/?clone=https://github.com/initializ-templates/CareerMaker&repo_name=CareerMaker&description=♾%20A%20cutting-edge%20career%20maker%20site%20built%20with%20React%20to%20streamline%20job%20searches%20and%20professional%20growth&github=true)
 
-<p align="left">
-    <a href="https://github.com/akhil-s-kumar/apnicareer-webapp/issues" alt="Issues">
-        <img src="https://img.shields.io/github/issues/akhil-s-kumar/apnicareer-webapp" /></a>
-    <a href="https://github.com/akhil-s-kumar/apnicareer-webapp/pulls" alt="Pull Requests">
-        <img src="https://img.shields.io/github/issues-pr/akhil-s-kumar/apnicareer-webapp" /></a>
-    <a href="https://github.com/akhil-s-kumar/apnicareer-webapp/network/members" alt="Forks">
-        <img src="https://img.shields.io/github/forks/akhil-s-kumar/apnicareer-webapp" /></a>
-    <a href="https://github.com/akhil-s-kumar/apnicareer-webapp/stargazers" alt="Stars">
-        <img src="https://img.shields.io/github/stars/akhil-s-kumar/apnicareer-webapp" /></a>
-</p>
 
-## 💽 Installation Instructions
+## On Prod 
+[![Kubeday India](https://res.cloudinary.com/daosik5yi/image/upload/f_auto,q_auto/pntsnjpa1sxbc2d02q9n)](https://console.initializ.ai/create-app/?clone=https://github.com/initializ-templates/CareerMaker&repo_name=CareerMaker&description=♾%20A%20cutting-edge%20career%20maker%20site%20built%20with%20React%20to%20streamline%20job%20searches%20and%20professional%20growth&github=true)
 
-If you want to work with this project make sure to follow the steps below!
+## Prerequisite 
+### Must have an Account on [Initializ.ai](https://console.initializ.ai/register/)<br><br>
 
-1. Make sure to install [Node](https://nodejs.org/en/)
-2. Create a project folder
+#### Steps to Create Account
+ Step 1: [SignUp](https://console.initializ.ai/register/) <br>
+ <br>[![Sign Up](https://res.cloudinary.com/dd4xje8fc/image/upload/v1717773727/image_1_eaxyhp.png)](https://console.initializ.ai/register/)<br><br>
+ Step 2: Verify Your Email<br><br>
+ Step 3: [Sign In](https://console.initializ.ai/login/) <br><br>[![Sign In](https://res.cloudinary.com/dd4xje8fc/image/upload/v1717773726/image_2_pi56ah.png)](https://console.initializ.ai/login/)<br><br>
+ Step 4: [Deploy on Initializ](https://console.initializ.ai/create-app/?clone=https://github.com/initializ-templates/CareerMaker&repo_name=CareerMaker&description=♾%20A%20cutting-edge%20career%20maker%20site%20built%20with%20React%20to%20streamline%20job%20searches%20and%20professional%20growth&github=true)
 
-```bash
-$ mkdir apnicareer-Website
-$ cd apnicareer-Website
-```
 
-3. Clone the repository
+## How To Use 
+
+From your command line, clone and run CareerMaker:
 
 ```bash
-$ git clone https://github.com/akhil-s-kumar/apnicareer-webapp.git
-$ cd apnicareer-webapp
-```
+# Clone this repository
+git clone https://github.com/initializ-templates/CareerMaker.git
 
-4. Open in VS Code
+# Go into the repository
+cd CareerMaker
 
-```bash
-code .
-```
+# Setup default environment variables
 
-## 🚀 Quick start
+# For Linux
+cp env.example .env
+# For Windows
+copy env.example .env
 
-1.  **Run apnicareer site.**
-
-```bash
-npm start
-```
-
-Your site is now running at [localhost:3000](http://localhost:3000)
-
-
-## ✨ How you can contribute to this project?
-
-1. Fork this project to your GitHub account
-2. Connect the cloned project folder to your forked GitHub repository.
-3. Find an [issue or feature](https://github.com/akhil-s-kumar/apnicareer-webapp/issues) and work on it.
-4. Make a pull request.# CareerMaker
+# Install dependencies
+npm install
