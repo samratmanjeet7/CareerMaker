@@ -90,7 +90,7 @@ const Footer = () => {
         <div className="row copyright">
           <hr />
           <div className="col-lg-6 col-md-8 col-sm-8 col-9 text-start">
-            <p>© 2024  CareerMakers. All rights reserved by Initializ</p>
+            <p>© 2024  CareerMakers. All rights reserved by Manjeet </p>
           </div>
           <div className="col-lg-6 col-md-4 col-sm-4 col-3 text-end">
             <p>
